@@ -17,6 +17,7 @@
         <div class="row">
             <div class="mb-3 col-6">
                 <button type="submit" class="btn btn-success">Ajouter</button>
+                <button type="reset" class="btn btn-secondary">Annuler</button>
             </div>
         </div>
     </form>

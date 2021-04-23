@@ -25,7 +25,7 @@ require_once 'headerAdmin.php' ?>
                     <h5 class="card-title"><?php echo $product['designation']; ?></h5>
                     <p class="card-text"> <?php echo $product['price']; ?> €</p>
                     <a href='updateproduct.php?update="<?php echo $product['id']; ?>"' class="btn btn-warning">Modifier</a>
-                    <button type="submit" class="btn btn-danger">Supprimer</button>
+                    <button type="" class="btn btn-danger">Supprimer</button>
                 </div>
             </div>
     <?php

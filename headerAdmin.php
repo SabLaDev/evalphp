@@ -34,6 +34,12 @@
                             <li><a class="dropdown-item" href="logout.php">Déconnexion</a></li>
                         </ul>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="addProduct.php">Créer un nouveau produit</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Vente</a>
+                    </li>
                 </ul>
             </div>
         </div>

@@ -29,8 +29,8 @@
         </div>
         <div class="row">
             <div class="mb-3 col-3">
-                <button type="submit" class="btn btn-primary">Créer</button>
-                <button type="submit" class="btn btn-secondary">Annuler</button>
+                <button type="submit" class="btn btn-success">Créer</button>
+                <button type="reset" class="btn btn-secondary">Annuler</button>
             </div>
         </div>
         <br>

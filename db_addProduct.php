@@ -18,6 +18,7 @@ try {
     $result->closeCursor();
 
     echo "<span style color='#008000'>Nouveau bonbon ajouté.</span>";
+    header('location:listProductAdmin.php');
 } catch (Exception $e) {
     die('Erreur : ' . $e->getMessage());
 }

@@ -27,7 +27,6 @@
                             Profil
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="adduser.php">Créer un compte</a></li>
                             <li><a class="dropdown-item" href="updateuser.php">Modifier mon compte</a></li>
                             <li>
                                 <hr class="dropdown-divider">

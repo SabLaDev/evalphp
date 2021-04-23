@@ -22,6 +22,8 @@ try {
     $result->closeCursor();
 
     echo "<span style color='#008000'>Un nouvel utilisateur à bien été créé.</span>";
+    header('location:login.php');
+
 } catch (Exception $e) {
     die('Erreur : ' . $e->getMessage());
 }

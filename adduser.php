@@ -1,4 +1,4 @@
-<?php require_once 'headerAdmin.php' ?>
+<?php require_once 'header.php' ?>
 
 <div class="container">
     <h1>Création d'un nouveau compte utilisateur</h1>

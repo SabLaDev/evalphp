@@ -20,6 +20,9 @@
                         <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="adduser.php">Créer un compte</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="login.php">Connexion</a>
                     </li>
                 </ul>
